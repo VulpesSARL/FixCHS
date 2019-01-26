@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FixCHS", "FixCHS\FixCHS.vcxproj", "{FDD3B366-A115-4D16-94F5-6C3F23CE17AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{099810DC-B625-4C0B-92CC-F34591149191}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD3B366-A115-4D16-94F5-6C3F23CE17AE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FDD3B366-A115-4D16-94F5-6C3F23CE17AE}.Debug|Win32.Build.0 = Debug|Win32
+		{FDD3B366-A115-4D16-94F5-6C3F23CE17AE}.Release|Win32.ActiveCfg = Release|Win32
+		{FDD3B366-A115-4D16-94F5-6C3F23CE17AE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA6511CD-EFE9-42F5-8C19-12757410509A}
+	EndGlobalSection
+EndGlobal
